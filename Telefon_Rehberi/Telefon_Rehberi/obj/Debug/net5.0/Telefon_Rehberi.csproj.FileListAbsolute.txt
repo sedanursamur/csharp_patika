@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\obj\Debug\net5.0\Telefon_Rehberi.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\obj\Debug\net5.0\Telefon_Rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\obj\Debug\net5.0\Telefon_Rehberi.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\obj\Debug\net5.0\Telefon_Rehberi.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\obj\Debug\net5.0\Telefon_Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\bin\Debug\net5.0\Telefon_Rehberi.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\bin\Debug\net5.0\Telefon_Rehberi.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\bin\Debug\net5.0\Telefon_Rehberi.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\bin\Debug\net5.0\Telefon_Rehberi.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\bin\Debug\net5.0\Telefon_Rehberi.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\bin\Debug\net5.0\ref\Telefon_Rehberi.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\bin\Debug\net5.0\Telefon_Rehberi.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\obj\Debug\net5.0\Telefon_Rehberi.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\obj\Debug\net5.0\ref\Telefon_Rehberi.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\obj\Debug\net5.0\Telefon_Rehberi.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Telefon_Rehberi\Telefon_Rehberi\obj\Debug\net5.0\Telefon_Rehberi.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\bin\Debug\net5.0\_struct.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\bin\Debug\net5.0\_struct.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\bin\Debug\net5.0\_struct.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\bin\Debug\net5.0\_struct.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\bin\Debug\net5.0\_struct.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\bin\Debug\net5.0\ref\_struct.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\bin\Debug\net5.0\_struct.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\obj\Debug\net5.0\_struct.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\obj\Debug\net5.0\_struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\obj\Debug\net5.0\_struct.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\obj\Debug\net5.0\_struct.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\obj\Debug\net5.0\_struct.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\obj\Debug\net5.0\_struct.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\obj\Debug\net5.0\ref\_struct.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\obj\Debug\net5.0\_struct.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\struct\struct\obj\Debug\net5.0\_struct.genruntimeconfig.cache
