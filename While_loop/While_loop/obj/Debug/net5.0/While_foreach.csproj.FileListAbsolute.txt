@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\bin\Debug\net5.0\While_foreach.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\bin\Debug\net5.0\While_foreach.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\bin\Debug\net5.0\While_foreach.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\bin\Debug\net5.0\While_foreach.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\bin\Debug\net5.0\While_foreach.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\bin\Debug\net5.0\ref\While_foreach.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\bin\Debug\net5.0\While_foreach.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\obj\Debug\net5.0\While_foreach.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\obj\Debug\net5.0\While_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\obj\Debug\net5.0\While_foreach.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\obj\Debug\net5.0\While_foreach.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\obj\Debug\net5.0\While_foreach.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\obj\Debug\net5.0\While_foreach.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\obj\Debug\net5.0\ref\While_foreach.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\obj\Debug\net5.0\While_foreach.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\While_loop\While_loop\obj\Debug\net5.0\While_foreach.genruntimeconfig.cache

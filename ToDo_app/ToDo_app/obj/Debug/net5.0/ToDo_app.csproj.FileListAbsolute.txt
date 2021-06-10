@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\bin\Debug\net5.0\ToDo_app.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\bin\Debug\net5.0\ToDo_app.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\bin\Debug\net5.0\ToDo_app.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\bin\Debug\net5.0\ToDo_app.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\bin\Debug\net5.0\ToDo_app.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\bin\Debug\net5.0\ref\ToDo_app.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\bin\Debug\net5.0\ToDo_app.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\obj\Debug\net5.0\ToDo_app.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\obj\Debug\net5.0\ToDo_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\obj\Debug\net5.0\ToDo_app.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\obj\Debug\net5.0\ToDo_app.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\obj\Debug\net5.0\ToDo_app.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\obj\Debug\net5.0\ToDo_app.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\obj\Debug\net5.0\ref\ToDo_app.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\obj\Debug\net5.0\ToDo_app.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\ToDo_app\ToDo_app\obj\Debug\net5.0\ToDo_app.genruntimeconfig.cache

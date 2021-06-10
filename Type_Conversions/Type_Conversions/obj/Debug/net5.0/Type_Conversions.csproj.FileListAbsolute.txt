@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\bin\Debug\net5.0\Type_Conversions.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\bin\Debug\net5.0\Type_Conversions.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\bin\Debug\net5.0\Type_Conversions.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\bin\Debug\net5.0\Type_Conversions.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\bin\Debug\net5.0\Type_Conversions.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\bin\Debug\net5.0\ref\Type_Conversions.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\bin\Debug\net5.0\Type_Conversions.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\obj\Debug\net5.0\Type_Conversions.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\obj\Debug\net5.0\Type_Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\obj\Debug\net5.0\Type_Conversions.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\obj\Debug\net5.0\Type_Conversions.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\obj\Debug\net5.0\Type_Conversions.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\obj\Debug\net5.0\Type_Conversions.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\obj\Debug\net5.0\ref\Type_Conversions.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\obj\Debug\net5.0\Type_Conversions.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Type_Conversions\Type_Conversions\obj\Debug\net5.0\Type_Conversions.genruntimeconfig.cache
