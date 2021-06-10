@@ -1,0 +1,15 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\bin\Debug\net5.0\Error_Management.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\bin\Debug\net5.0\Error_Management.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\bin\Debug\net5.0\Error_Management.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\bin\Debug\net5.0\Error_Management.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\bin\Debug\net5.0\Error_Management.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\bin\Debug\net5.0\ref\Error_Management.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\bin\Debug\net5.0\Error_Management.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\obj\Debug\net5.0\Error_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\obj\Debug\net5.0\Error_Management.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\obj\Debug\net5.0\Error_Management.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\obj\Debug\net5.0\Error_Management.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\obj\Debug\net5.0\Error_Management.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\obj\Debug\net5.0\ref\Error_Management.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\obj\Debug\net5.0\Error_Management.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Error_Management\Error_Management\obj\Debug\net5.0\Error_Management.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\bin\Debug\net5.0\erisim_belirleyicileri.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\bin\Debug\net5.0\erisim_belirleyicileri.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\bin\Debug\net5.0\erisim_belirleyicileri.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\bin\Debug\net5.0\erisim_belirleyicileri.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\bin\Debug\net5.0\erisim_belirleyicileri.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\bin\Debug\net5.0\ref\erisim_belirleyicileri.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\bin\Debug\net5.0\erisim_belirleyicileri.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\obj\Debug\net5.0\erisim_belirleyicileri.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\obj\Debug\net5.0\erisim_belirleyicileri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\obj\Debug\net5.0\erisim_belirleyicileri.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\obj\Debug\net5.0\erisim_belirleyicileri.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\obj\Debug\net5.0\erisim_belirleyicileri.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\obj\Debug\net5.0\erisim_belirleyicileri.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\obj\Debug\net5.0\ref\erisim_belirleyicileri.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\obj\Debug\net5.0\erisim_belirleyicileri.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\erisim_belirleyicileri\erisim_belirleyicileri\obj\Debug\net5.0\erisim_belirleyicileri.genruntimeconfig.cache
