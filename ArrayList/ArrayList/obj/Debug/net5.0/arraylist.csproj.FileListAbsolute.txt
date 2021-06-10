@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\bin\Debug\net5.0\arraylist.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\bin\Debug\net5.0\arraylist.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\bin\Debug\net5.0\arraylist.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\bin\Debug\net5.0\arraylist.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\bin\Debug\net5.0\arraylist.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\bin\Debug\net5.0\ref\arraylist.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\bin\Debug\net5.0\arraylist.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\obj\Debug\net5.0\arraylist.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\obj\Debug\net5.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\obj\Debug\net5.0\arraylist.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\obj\Debug\net5.0\arraylist.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\obj\Debug\net5.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\obj\Debug\net5.0\arraylist.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\obj\Debug\net5.0\ref\arraylist.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\obj\Debug\net5.0\arraylist.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\ArrayList\ArrayList\obj\Debug\net5.0\arraylist.genruntimeconfig.cache
