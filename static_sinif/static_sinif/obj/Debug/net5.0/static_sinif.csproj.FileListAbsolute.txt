@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\obj\Debug\net5.0\static_sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\obj\Debug\net5.0\static_sinif.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\obj\Debug\net5.0\static_sinif.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\obj\Debug\net5.0\static_sinif.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\bin\Debug\net5.0\static_sinif.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\bin\Debug\net5.0\static_sinif.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\bin\Debug\net5.0\static_sinif.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\bin\Debug\net5.0\static_sinif.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\bin\Debug\net5.0\static_sinif.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\bin\Debug\net5.0\ref\static_sinif.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\bin\Debug\net5.0\static_sinif.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\obj\Debug\net5.0\static_sinif.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\obj\Debug\net5.0\static_sinif.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\obj\Debug\net5.0\ref\static_sinif.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\obj\Debug\net5.0\static_sinif.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\static_sinif\static_sinif\obj\Debug\net5.0\static_sinif.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\bin\Debug\net5.0\String_Methods.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\bin\Debug\net5.0\String_Methods.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\bin\Debug\net5.0\String_Methods.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\bin\Debug\net5.0\String_Methods.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\bin\Debug\net5.0\String_Methods.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\bin\Debug\net5.0\ref\String_Methods.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\bin\Debug\net5.0\String_Methods.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\obj\Debug\net5.0\String_Methods.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\obj\Debug\net5.0\String_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\obj\Debug\net5.0\String_Methods.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\obj\Debug\net5.0\String_Methods.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\obj\Debug\net5.0\String_Methods.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\obj\Debug\net5.0\String_Methods.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\obj\Debug\net5.0\ref\String_Methods.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\obj\Debug\net5.0\String_Methods.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\String_Methods\String_Methods\obj\Debug\net5.0\String_Methods.genruntimeconfig.cache
