@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\bin\Debug\net5.0\_enum.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\bin\Debug\net5.0\_enum.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\bin\Debug\net5.0\_enum.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\bin\Debug\net5.0\_enum.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\bin\Debug\net5.0\_enum.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\bin\Debug\net5.0\ref\_enum.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\bin\Debug\net5.0\_enum.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\obj\Debug\net5.0\_enum.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\obj\Debug\net5.0\_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\obj\Debug\net5.0\_enum.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\obj\Debug\net5.0\_enum.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\obj\Debug\net5.0\_enum.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\obj\Debug\net5.0\_enum.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\obj\Debug\net5.0\ref\_enum.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\obj\Debug\net5.0\_enum.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\enum\enum\obj\Debug\net5.0\_enum.genruntimeconfig.cache

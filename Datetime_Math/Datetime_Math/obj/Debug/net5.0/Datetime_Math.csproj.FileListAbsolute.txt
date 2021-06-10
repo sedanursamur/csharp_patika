@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\bin\Debug\net5.0\Datetime_Math.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\bin\Debug\net5.0\Datetime_Math.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\bin\Debug\net5.0\Datetime_Math.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\bin\Debug\net5.0\Datetime_Math.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\bin\Debug\net5.0\Datetime_Math.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\bin\Debug\net5.0\ref\Datetime_Math.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\bin\Debug\net5.0\Datetime_Math.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\obj\Debug\net5.0\Datetime_Math.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\obj\Debug\net5.0\Datetime_Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\obj\Debug\net5.0\Datetime_Math.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\obj\Debug\net5.0\Datetime_Math.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\obj\Debug\net5.0\Datetime_Math.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\obj\Debug\net5.0\Datetime_Math.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\obj\Debug\net5.0\ref\Datetime_Math.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\obj\Debug\net5.0\Datetime_Math.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Datetime_Math\Datetime_Math\obj\Debug\net5.0\Datetime_Math.genruntimeconfig.cache
