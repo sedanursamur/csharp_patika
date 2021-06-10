@@ -1,0 +1,15 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\bin\Debug\net5.0\ödev_1.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\bin\Debug\net5.0\ödev_1.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\bin\Debug\net5.0\ödev_1.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\bin\Debug\net5.0\ödev_1.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\bin\Debug\net5.0\ödev_1.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\bin\Debug\net5.0\ref\ödev_1.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\bin\Debug\net5.0\ödev_1.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\obj\Debug\net5.0\ödev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\obj\Debug\net5.0\ödev_1.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\obj\Debug\net5.0\ödev_1.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\obj\Debug\net5.0\ödev_1.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\obj\Debug\net5.0\ödev_1.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\obj\Debug\net5.0\ref\ödev_1.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\obj\Debug\net5.0\ödev_1.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\ödev_1\ödev_1\obj\Debug\net5.0\ödev_1.genruntimeconfig.cache
