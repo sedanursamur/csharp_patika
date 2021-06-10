@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\bin\Debug\net5.0\csharp_operators.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\bin\Debug\net5.0\csharp_operators.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\bin\Debug\net5.0\csharp_operators.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\bin\Debug\net5.0\csharp_operators.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\bin\Debug\net5.0\csharp_operators.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\bin\Debug\net5.0\ref\csharp_operators.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\bin\Debug\net5.0\csharp_operators.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\obj\Debug\net5.0\csharp_operators.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\obj\Debug\net5.0\csharp_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\obj\Debug\net5.0\csharp_operators.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\obj\Debug\net5.0\csharp_operators.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\obj\Debug\net5.0\csharp_operators.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\obj\Debug\net5.0\csharp_operators.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\obj\Debug\net5.0\ref\csharp_operators.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\obj\Debug\net5.0\csharp_operators.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_operators\csharp_operators\obj\Debug\net5.0\csharp_operators.genruntimeconfig.cache

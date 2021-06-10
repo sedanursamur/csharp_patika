@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\bin\Debug\net5.0\csharp_variables.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\bin\Debug\net5.0\csharp_variables.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\bin\Debug\net5.0\csharp_variables.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\bin\Debug\net5.0\csharp_variables.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\bin\Debug\net5.0\csharp_variables.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\bin\Debug\net5.0\ref\csharp_variables.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\bin\Debug\net5.0\csharp_variables.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\obj\Debug\net5.0\csharp_variables.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\obj\Debug\net5.0\csharp_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\obj\Debug\net5.0\csharp_variables.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\obj\Debug\net5.0\csharp_variables.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\obj\Debug\net5.0\csharp_variables.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\obj\Debug\net5.0\csharp_variables.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\obj\Debug\net5.0\ref\csharp_variables.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\obj\Debug\net5.0\csharp_variables.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\csharp_variables\csharp_variables\obj\Debug\net5.0\csharp_variables.genruntimeconfig.cache
