@@ -1,0 +1,16 @@
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\bin\Debug\net5.0\Array.exe
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\bin\Debug\net5.0\Array.deps.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\bin\Debug\net5.0\Array.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\bin\Debug\net5.0\Array.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\obj\Debug\net5.0\Array.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\obj\Debug\net5.0\Array.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\obj\Debug\net5.0\Array.pdb
+C:\Users\sedan\OneDrive\Desktop\c# patika\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
